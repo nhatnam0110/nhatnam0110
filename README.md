@@ -1,9 +1,9 @@
 # 👋 Hi, I’m Lê Trần Nhật Nam
 **Frontend Developer | DevOps Enthusiast**
 
-🎓 I’m a final-year student majoring in **Software Engineering**, passionate about building scalable web systems and automating deployment pipelines.  
-💼 I recently completed a **6-month internship at Intel**, where I worked on the **VisionGuard AI defect detection system**, focusing on edge AI deployment, synthetic dataset generation, and system modularization.  
-🚀 I’m now looking for an opportunity to apply my **Frontend** and **DevOps** skills in a professional environment.
+🎓 Final-year **Software Engineering** student.  
+💼 Completed a **6-month Intel internship** (VisionGuard – AI defect detection): edge AI deployment, synthetic dataset generation, modularization.  
+🚀 Seeking a role where I can apply **Frontend** and **DevOps** skills.
 
 ---
 
@@ -23,62 +23,42 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 
+---
+
+## 🌐 Connect with Me
+📫 Email: nhatnam0110@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/namle0110) · [GitHub](https://github.com/nhatnam0110)
 
 ---
 
 ## 🧩 Featured Projects
 
-### 🧠 [Intel VisionGuard – AI Defect Detection Pipeline](#)
-AI-driven system for manufacturing defect detection using **Intel Geti** and **OpenVINO**.  
-- Built and containerized the inference pipeline for edge deployment.  
-- Automated image build and release via **GitHub Actions CI/CD**.  
-- Designed modular architecture with monitoring integration for performance tracking.  
-- Collaborated with Intel’s AI/ML team to streamline deployment and testing workflows.
+### 🧠 Intel VisionGuard – AI Defect Detection Pipeline
+- Containerized edge inference; automated image builds with **GitHub Actions**.
+- Modular architecture + monitoring hooks; collaborated with Intel AI/ML team.
 
----
+### 💼 DEVision – Job Manager Subsystem
+- **React/Vite** frontend with Tailwind; **Docker** dev env and CI/CD.
+- C4 architecture participation; multi-container deployment via `docker-compose`.
 
-### 💼 [DEVision – Job Manager Subsystem](#)
-Capstone project under RMIT’s Software Engineering program.  
-- Developed modular **React/Vite frontend** using TailwindCSS and REST API integration.  
-- Implemented **Docker-based development environment** and **CI/CD** pipeline via GitHub Actions.  
-- Contributed to system architecture design following the **C4 Model**.  
-- Deployed multi-container stack using `docker-compose`.
+### ☁️ CloudInfra – 3-Tier Web App on AWS
+- React frontend + Node/Java backend + RDS; **Terraform** VPC/Subnets/ALB/SG.
+- CI/CD with GitHub Actions; basic monitoring & scaling.
 
----
-
-### ☁️ [CloudInfra – 3-Tier Web Application on AWS](#)
-Full-stack deployment of a modern web app using a **3-tier architecture** on AWS.  
-- Frontend (React) + Backend (Node/Java) + Database (RDS) hosted on **AWS EC2** and **RDS**.  
-- Provisioned infrastructure using **Terraform**: VPC, Subnets, Load Balancer, and Security Groups.  
-- Set up **CI/CD pipelines** with GitHub Actions to automate build and deployment.  
-- Configured system monitoring and scaling for high availability.
-
----
-
-### 🔧 [Modular VPC & DevOps Network Setup](#)
-Infrastructure-as-Code project demonstrating scalable **cloud networking** and DevOps automation.  
-- Designed a **modular VPC architecture** (public/private subnets, NAT gateways, security groups) using **Terraform**.  
-- Deployed a **Dockerized web application** within the configured network.  
-- Demonstrated environment separation (dev/staging/prod) and automatic provisioning/teardown.  
-- Documented architecture diagrams and Terraform modules for reuse.
+### 🔧 Modular VPC & DevOps Network Setup
+- **Terraform** modular VPC (public/private, NAT, SGs) + **Dockerized** app.
+- Dev/Staging/Prod separation; one-command provision/teardown.
 
 ---
 
 ## 🌱 Currently Exploring
-- Strengthening my understanding of **CI/CD pipelines** using GitHub Actions and Docker.  
-- Learning to design **cloud infrastructure** with Terraform and AWS for small-scale deployments.  
-- Improving my skills in **monitoring and troubleshooting** containerized applications.  
-- Exploring **best practices for frontend deployment** and environment configuration.  
-- Gaining experience in **team collaboration tools** (GitHub Projects, Jira, Agile workflows).  
-- Studying **system design basics** to better understand how frontend and backend integrate in production systems.
+- Solidifying **CI/CD** with GitHub Actions & Docker.
+- Small-scale **Terraform + AWS** deployments.
+- Monitoring & troubleshooting containerized apps.
+- Frontend deployment best practices & env configuration.
+- Team workflows (GitHub Projects/Jira) and system design basics.
 
 ---
-
-## 🌐 Connect with Me
-📫 **Email:** nhatnam0110@gmail.com  
-💼 **LinkedIn:** [www.linkedin.com/in/namle0110](#)  
-🐙 **GitHub:** [github.com/nhatnam0110](#)
-
----
-
