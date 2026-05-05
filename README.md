@@ -3,7 +3,7 @@
 
 > Building cross-platform mobile experiences with React Native — bridging native iOS & Android knowledge with a strong React/TypeScript frontend foundation.
 
-- 🎓 Final-year Software Engineering student, graduating Sep 2026
+- 🎓 Final-year Software Engineering student, graduating April 2027
 - 💼 Intel internship — VisionGuard AI defect detection pipeline (React 19 + TypeScript, 5-person team)
 - 📱 Swift (iOS) & Android Studio experience; now building cross-platform with React Native + Expo
 - 🚀 Shipped: FuelWise (Claude API + React), hotel SPA (headless WordPress + React 18 + Vite), cloud infra on AWS
